@@ -6,7 +6,7 @@ html {
   box-sizing: inherit; }
 
 header.well {
-  background-color: green;
+  background-color: #2d708d;
   color: white;
 }
 
@@ -23,7 +23,7 @@ nav h2 {
 nav a {
   /* force pointer for non-links */
   cursor: pointer; 
-  color:green;
+  color:#2d708d;
 }
 
 .cards-container {
